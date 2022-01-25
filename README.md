@@ -8,3 +8,5 @@ Wish me luck!
 You can do them along with me if you would like!
 I will make a comment before I spoil any solutions.
 Languages may include (but are not limited to): C++, Python, Netlogo, Java 
+
+Have fun!
